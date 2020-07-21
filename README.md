@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poudelprakash&theme=radical&hide_langs_below=1" alt="Prakash's language stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=poudelprakash&show_icons=true&theme=radical&line_height=27" alt="Prakash's github stats" />
+
 <!--
 **poudelprakash/poudelprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
