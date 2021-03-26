@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Prakash Poudel Sharma (he/him), a full stack ruby on rails/javascipt developer and founder of Truemark Private Limited(Truemark Technology). I love helping businesses creating apps that can eliminate crucial pain points people are facing regularly. I have a strong background in ROR and its ecosystem, project management, also in Linux and systems administration.
+I'm Prakash Poudel Sharma (he/him), a full stack ruby on rails/javascipt developer and founder of Truemark Private Limited(Truemark Technology). 
+
+I love helping businesses creating apps that can eliminate crucial pain points people are facing regularly. 
+
+I have a strong background in ROR and its ecosystem, project management, also in Linux and systems administration.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poudelprakash&theme=radical&hide_langs_below=1" alt="Prakash's language stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=poudelprakash&show_icons=true&theme=radical&line_height=27" alt="Prakash's github stats" />
 
